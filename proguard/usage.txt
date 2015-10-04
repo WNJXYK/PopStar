@@ -1,0 +1,12 @@
+cn.Arthur.ZZ.PopStar.BitmapParticle:
+    java.lang.String text
+    int color
+    int screenwidth
+cn.Arthur.ZZ.PopStar.MainView:
+    225:226:private int remax(int,int)
+cn.Arthur.ZZ.PopStar.R
+cn.Arthur.ZZ.PopStar.R$attr
+cn.Arthur.ZZ.PopStar.R$drawable
+cn.Arthur.ZZ.PopStar.R$layout
+cn.Arthur.ZZ.PopStar.R$raw
+cn.Arthur.ZZ.PopStar.R$string
